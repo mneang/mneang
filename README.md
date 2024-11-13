@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Michael Neang</h1>
+<h1 align="center">👋 Hi, I'm Michael</h1>
 
 ### About Me | 紹介 | ご紹介 | 소개
 A data analyst with a flair for transforming complex data into compelling business stories. With a background in Information Systems and Operations Management, I thrive at the intersection of technology and strategy. Passionate about using data to drive meaningful decisions, optimize operations, and create impactful solutions.
