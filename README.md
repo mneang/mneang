@@ -7,11 +7,11 @@ A data analyst with a flair for transforming complex data into compelling busine
 
 データアナリストとして、複雑なデータを魅力的なビジネスストーリーに変えることに情熱を持っています。情報システムとオペレーション管理の知識を活かし、技術と戦略の交差点で活躍しています。データを活用し、有意義な意思決定を推進し、業務を最適化し、影響力のあるソリューションを提供することに全力を注いでいます。
 
-데이터 분석가로서, 복잡한 데이터를 매력적인 비즈니스 스토리로 바꾸는 데 열정을 가지고 있습니다. 정보 시스템 및 운영 관리에 대한 배경을 바탕으로 기술과 전략의 교차점에서 발전해 왔습니다. 데이터를 활용하여 의미 있는 결정을 내리고, 운영을 최적화하며, 영향력 있는 솔루션을 제공하는 데 전념하고 있습니다.
+데이터 분석가로서, 복잡한 데이터를 매력적인 비즈니스 스토리로 바꾸는데 열정을 가지고 있습니다. 정보 시스템 및 운영 관리에 대한 배경을 바탕으로 기술과 전략의 교차점에서 발전해왔습니다. 데이터를 활용하여 의미 있는 결정을 내리고, 운영을 최적화하며, 영향력 있는 솔루션을 제공하는 데 전념하고 있습니다.
 
 ---
 
-### 💻 Tech Stack | 技术栈 | 技術スタック | 기술 스택
+### 💻 Tech Stack
 | **Category**            | **Technologies**                                                                                                                                                                       |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming**         | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-276DC3?style=flat&logo=r&logoColor=white)             |
@@ -24,7 +24,7 @@ A data analyst with a flair for transforming complex data into compelling busine
 
 ---
 
-### 🌐 Connect with Me | 联系方式 | 連絡先 | 연락처
+### 🌐 Connect with me! | 联系方式 | 連絡先 | 연락처
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mneang) [![Email](https://img.shields.io/badge/Email-mikeyneang11@gmail.com-red)](mailto:mikeyneang11@gmail.com)
 
 ---
