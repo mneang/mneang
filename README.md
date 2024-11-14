@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, I'm Michael</h1>
+<h1>👋 Hi, I'm Michael</h1>
 
 ### About Me | 紹介 | ご紹介 | 소개
-A data analyst with a flair for transforming complex data into compelling business stories. With a background in Information Systems and Operations Management, I thrive at the intersection of technology and strategy. Passionate about using data to drive meaningful decisions, optimize operations, and create impactful solutions.
+As a data analyst, I am passionate about turning complex data into clear, actionable insights that drive strategic decisions. With a background in Information Systems and Operations Management, I enjoy using technology to solve business challenges and create impactful solutions.
 
-作为一名数据分析师，我擅长将复杂数据转化为引人入胜的商业故事。凭借信息系统和运营管理方面的背景，我在技术与战略的交汇点上不断成长。我热衷于利用数据推动有意义的决策，优化业务流程，并创造具有影响力的解决方案。
+作为数据分析师，我热衷于将复杂数据转化为清晰的洞察，推动战略决策。拥有信息系统和运营管理背景，我喜欢运用技术解决业务挑战，创造有影响力的解决方案。
 
-データアナリストとして、複雑なデータを魅力的なビジネスストーリーに変えることに情熱を持っています。情報システムとオペレーション管理の知識を活かし、技術と戦略の交差点で活躍しています。データを活用し、有意義な意思決定を推進し、業務を最適化し、影響力のあるソリューションを提供することに全力を注いでいます。
+データアナリストとして、複雑なデータを明確な洞察に変え、戦略的な意思決定を支援することに情熱を持っています。情報システムとオペレーション管理のバックグラウンドを活かし、技術を用いてビジネスの課題を解決し、影響力のあるソリューションを生み出すことを楽しんでいます。
 
-데이터 분석가로서, 복잡한 데이터를 매력적인 비즈니스 스토리로 바꾸는데 열정을 가지고 있습니다. 정보 시스템 및 운영 관리에 대한 배경을 바탕으로 기술과 전략의 교차점에서 발전해왔습니다. 데이터를 활용하여 의미 있는 결정을 내리고, 운영을 최적화하며, 영향력 있는 솔루션을 제공하는 데 전념하고 있습니다.
+데이터 분석가로서 복잡한 데이터를 명확한 통찰로 전환하여 전략적 의사 결정에 기여하는 것에 열정을 가지고 있습니다. 정보 시스템과 운영 관리 배경을 바탕으로 기술을 활용하여 비즈니스 과제를 해결하고, 영향력 있는 솔루션을 만드는 것을 즐깁니다.
 
 ---
 
@@ -28,4 +28,3 @@ A data analyst with a flair for transforming complex data into compelling busine
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mneang) [![Email](https://img.shields.io/badge/Email-mikeyneang11@gmail.com-red)](mailto:mikeyneang11@gmail.com)
 
 ---
-
